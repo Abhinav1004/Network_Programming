@@ -1,4 +1,4 @@
-# Python-Network-Porgramming
+# Python-Network-Programming
 1 Caesar Cipher Implements the Caesar Cipher program using client and server technique
 
 2 Chat_one_to_one : Simple one the one chat server implemented using socket programming

@@ -7,6 +7,10 @@
 
 4 Database using the python client and server to store data in database
 
-5 Tcp capitalize :Takes the data from the client and returns the string with words capitalized
+5 Tcp capitalize :Takes the data from the client and returns the string with words capitalize
 
+6 Tcp Protocol : Implements tcp protocol using socket programming
+
+7 Udp Protocol : Implements udp protocol using socket programming
+I
 
